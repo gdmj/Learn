@@ -25,7 +25,7 @@ namespace IntroToCSharp
                     Console.WriteLine(numSeq * (-1));
                 }
             }
-            
+            Console.ReadLine();
         }
     }
 }
